@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,price,stock_quantity,rating
+P101,Wireless Mouse,Electronics,Logitech,799,150,4.5
+P102,Mechanical Keyboard,Electronics,Redragon,3499,80,4.7
+P103,Laptop Stand,Accessories,AmazonBasics,1499,120,4.4
+P104,Bluetooth Speaker,Electronics,JBL,2999,60,4.6
+P105,Office Chair,Furniture,GreenSoul,8999,25,4.3
+P106,Notebook,Stationery,Classmate,120,500,4.8
+P107,Water Bottle,Home,Cello,350,300,4.2
+P108,USB-C Hub,Electronics,Anker,2499,90,4.7
+P109,Monitor 24 Inch,Electronics,LG,12999,35,4.6
+P110,Webcam,Electronics,Logitech,3999,45,4.5
